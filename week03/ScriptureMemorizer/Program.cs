@@ -1,3 +1,4 @@
+// For my enhancement I added a text file that has several different scriptures that are randomized. This way you can practice different scriptures at a time.
 using System;
 using System.IO;
 
