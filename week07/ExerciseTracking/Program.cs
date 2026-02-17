@@ -1,3 +1,5 @@
+// To exceed expectations I added in an extra method called GetCaloriesBurned() in the base class, Activity. This shows additional polymorphism and enhances the fitness tracking.
+
 using System;
 
 class Program
